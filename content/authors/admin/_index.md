@@ -80,5 +80,5 @@ email: ""
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yue Teng is a Sociology Ph.D. student at the University of Western Ontario. Her broader research interest is fertility, family, and life course. Yue obtained her MA degree from York University. During her Ph.D. research, Yue is working on her doctoral dissertation which studies fertility and family change in Canada. As a researcher, Yue is interested in quantitative methods and computational demography and has worked with survey data from Canada, China, and Europe. Through participating in CAnD3 program, she hopes to advance her quantitative methods and statistics skills in analysing social problems related to fertility and family change around the world.
 {style="text-align: justify;"}

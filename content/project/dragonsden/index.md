@@ -13,4 +13,4 @@ image:
   focal_point: Smart
 ---
 
-Goal: To improve my expertise in data analysis, data visualization, and proficiency in writing code using statistical software such as R.
+## Goal: To improve my expertise in data analysis, data visualization, and proficiency in writing code using statistical software such as R.

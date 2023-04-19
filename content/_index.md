@@ -28,7 +28,7 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
-  - block: goals
+  - block: experiences
     content:
       title: Goals
       id: goals

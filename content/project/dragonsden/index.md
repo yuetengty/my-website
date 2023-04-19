@@ -1,6 +1,8 @@
 ---
 title: Dragon's Den
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Using decomposition analysis and the Human Fertility Database to investigate the relationship between the decline in fertility and changes in the age of mothers and the parity of children in Canada since the Great Recession.
+
+Goal:\ To improve my expertise in data analysis, data visualization, and proficiency in writing code using statistical software such as R.
 tags:
   - dragonsden
 date: "2016-04-27T00:00:00Z"

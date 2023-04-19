@@ -28,53 +28,53 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
-  - block: experience
-    content:
-      title: Goals
-      id: goals
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: 1
-          company:
-          # company_url: ""
-          # company_logo: org-gc
-          # location: California
-          date_start: "2021-01-01"
-          date_end: ""
-          # description: |2-
-          #     Responsibilities include:
+  # - block: experience
+  #   content:
+  #     title: Goals
+  #     id: goals
+  #     # Date format for experience
+  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Experiences.
+  #     #   Add/remove as many `experience` items below as you like.
+  #     #   Required fields are `title`, `company`, and `date_start`.
+  #     #   Leave `date_end` empty if it's your current employer.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - title: 1
+  #         company:
+  #         # company_url: ""
+  #         # company_logo: org-gc
+  #         # location: California
+  #         date_start: "2021-01-01"
+  #         date_end: ""
+  #         # description: |2-
+  #         #     Responsibilities include:
 
-          #     * Analysing
-          #     * Modelling
-          #     * Deploying
-          description: To gain a practical understanding of how research can inform decision-making and policy development beyond academia, and to develop my skills in non-academic writing, including the ability to write effective policy briefs.
-        - title: 2
-          company:
-          date_start: "2021-01-01"
-          date_end: ""
-          description: To enhance my understanding of diverse research methodologies and engage in interdisciplinary studies.
-        - title: 3
-          company:
-          date_start: "2021-01-01"
-          date_end: ""
-          description: To improve my expertise in data analysis, data visualization, and proficiency in writing code using statistical software such as R.
-        # - title: \#2
-        #   company: University X
-        #   company_url: ""
-        #   company_logo: org-x
-        #   location: California
-        #   date_start: "2016-01-01"
-        #   date_end: "2020-12-31"
-        #   description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: "2"
+  #         #     * Analysing
+  #         #     * Modelling
+  #         #     * Deploying
+  #         description: To gain a practical understanding of how research can inform decision-making and policy development beyond academia, and to develop my skills in non-academic writing, including the ability to write effective policy briefs.
+  #       - title: 2
+  #         company:
+  #         date_start: "2021-01-01"
+  #         date_end: ""
+  #         description: To enhance my understanding of diverse research methodologies and engage in interdisciplinary studies.
+  #       - title: 3
+  #         company:
+  #         date_start: "2021-01-01"
+  #         date_end: ""
+  #         description: To improve my expertise in data analysis, data visualization, and proficiency in writing code using statistical software such as R.
+  #       # - title: \#2
+  #       #   company: University X
+  #       #   company_url: ""
+  #       #   company_logo: org-x
+  #       #   location: California
+  #       #   date_start: "2016-01-01"
+  #       #   date_end: "2020-12-31"
+  #       #   description: Taught electronic engineering and researched semiconductor physics.
+  #   design:
+  #     columns: "2"
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.

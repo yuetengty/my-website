@@ -42,7 +42,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: \#1
-          # company:
+          company:
           # #         # company_url: ""
           # #         # company_logo: org-gc
           # #         # location: California
@@ -224,7 +224,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        You can contact me at this e-mail.
+        You can contact me here.
       # Contact (add or remove contact options as necessary)
       email: yteng43@uwo.ca
       # phone: 888 888 88 88

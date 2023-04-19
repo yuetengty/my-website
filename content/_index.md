@@ -41,27 +41,38 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ""
-          company_logo: org-gc
-          location: California
+        - title: \#1
+          company:
+          # company_url: ""
+          # company_logo: org-gc
+          # location: California
           date_start: "2021-01-01"
           date_end: ""
-          description: |2-
-              Responsibilities include:
+          # description: |2-
+          #     Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ""
-          company_logo: org-x
-          location: California
-          date_start: "2016-01-01"
-          date_end: "2020-12-31"
-          description: Taught electronic engineering and researched semiconductor physics.
+          #     * Analysing
+          #     * Modelling
+          #     * Deploying
+          description: To gain a practical understanding of how research can inform decision-making and policy development beyond academia, and to develop my skills in non-academic writing, including the ability to write effective policy briefs.
+        - title: \#2
+          company:
+          date_start: "2021-01-01"
+          date_end: ""
+          description: To enhance my understanding of diverse research methodologies and engage in interdisciplinary studies.
+        - title: \#3
+          company:
+          date_start: "2021-01-01"
+          date_end: ""
+          description: To improve my expertise in data analysis, data visualization, and proficiency in writing code using statistical software such as R.
+        # - title: \#2
+        #   company: University X
+        #   company_url: ""
+        #   company_logo: org-x
+        #   location: California
+        #   date_start: "2016-01-01"
+        #   date_end: "2020-12-31"
+        #   description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: "2"
   # - block: accomplishments
@@ -138,7 +149,7 @@ sections:
         folders:
           - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      default_button_index: 0
+      default_button_index: idea
       # Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
       # To show all items, set `tag` to "*".

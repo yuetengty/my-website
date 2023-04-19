@@ -41,7 +41,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: \#1
+        - title: 1
           company:
           # company_url: ""
           # company_logo: org-gc
@@ -55,12 +55,12 @@ sections:
           #     * Modelling
           #     * Deploying
           description: To gain a practical understanding of how research can inform decision-making and policy development beyond academia, and to develop my skills in non-academic writing, including the ability to write effective policy briefs.
-        - title: \#2
+        - title: 2
           company:
           date_start: "2021-01-01"
           date_end: ""
           description: To enhance my understanding of diverse research methodologies and engage in interdisciplinary studies.
-        - title: \#3
+        - title: 3
           company:
           date_start: "2021-01-01"
           date_end: ""

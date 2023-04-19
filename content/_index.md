@@ -146,9 +146,9 @@ sections:
       buttons:
         - name: All
           tag: "*"
-        - name: IDEA & Family Policy in Canada
+        - name: IDEA
           tag: idea
-        - name: GBA+ Analysis in Heart Disease
+        - name: GBA+
           tag: gba
         - name: Dragon's Den
           tag: dragonsden

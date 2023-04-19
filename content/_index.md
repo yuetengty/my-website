@@ -130,9 +130,9 @@ sections:
   #     view: compact
   #     columns: "2"
   - block: portfolio
-    id: projects
+    id: cand3
     content:
-      title: Projects
+      title: CAnD3
       filters:
         folders:
           - project
@@ -146,10 +146,12 @@ sections:
       buttons:
         - name: All
           tag: "*"
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: IDEA & Family Policy in Canada
+          tag: idea
+        - name: GBA+ Analysis in Heart Disease
+          tag: gba
+        - name: Dragon's Den
+          tag: dragonsden
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: "1"

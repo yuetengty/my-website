@@ -9,6 +9,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: https://docs.google.com/presentation/d/1p_ckSUJUfJkbIv_6nrt2HixtXujrQzDgSvj_Q7lqSDI/edit?usp=sharing
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption:
   focal_point: Smart
 ---

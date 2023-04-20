@@ -1,6 +1,6 @@
 ---
 title: GBA+ Analysis in Heart Disease
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Applying GBA+ (Gender Based Analysis) to investigate gender gap in heart diseases in Canada by using Canadian Community Household Survey 2014.
 tags:
   - gba
 date: "2016-04-27T00:00:00Z"

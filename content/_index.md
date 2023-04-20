@@ -142,6 +142,7 @@ sections:
   #     view: compact
   #     columns: "2"
   - block: markdown
+    id: goals
     content:
       title: Goals
       subtitle: ""

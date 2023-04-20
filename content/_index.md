@@ -141,6 +141,16 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: "2"
+  - block: markdown
+    content:
+      title: Goals
+      subtitle: ""
+      text:
+      filters:
+        folders:
+          - goals
+    design:
+      columns: "1"
   - block: portfolio
     id: cand3
     content:

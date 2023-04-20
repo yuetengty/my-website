@@ -16,13 +16,12 @@ sections:
     id: goals
     content:
       title: Goals
-      text: 1. To gain a practical understanding of how research can inform decision-making and policy development beyond academia, and to develop my skills in non-academic writing, including the ability to write effective policy briefs.<br>2. To enhance my understanding of diverse research methodologies and engage in interdisciplinary studies.<br>3. To improve my expertise in data analysis, data visualization, and proficiency in writing code using statistical software such as R.
+      text: <br>1. To gain a practical understanding of how research can inform decision-making and policy development beyond academia, and to develop my skills in non-academic writing, including the ability to write effective policy briefs.<br>2. To enhance my understanding of diverse research methodologies and engage in interdisciplinary studies.<br>3. To improve my expertise in data analysis, data visualization, and proficiency in writing code using statistical software such as R.
       filters:
         folders:
           - goals
     design:
-      view: compact
-      columns: "1"
+      columns: "2"
   - block: portfolio
     id: cand3
     content:
@@ -106,7 +105,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        You can contact me here.<br>
+        You can contact me here.
       # Contact (add or remove contact options as necessary)
       email: yteng43@uwo.ca
       # phone: 888 888 88 88

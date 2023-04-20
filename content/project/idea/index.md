@@ -1,6 +1,6 @@
 ---
 title: IDEA & Family Policy in Canada
-summary: IDEA Policy Brief 'https://docs.google.com/document/d/1Zkvw51hJve8LzsBHGuiA5r5p9RISWIHPt80oDHiOUi8/edit?usp=sharing'.
+summary: IDEA Policy Brief Link [Here](https://docs.google.com/document/d/1Zkvw51hJve8LzsBHGuiA5r5p9RISWIHPt80oDHiOUi8/edit?usp=sharing)
 tags:
   - idea
 date: "2016-04-27T00:00:00Z"

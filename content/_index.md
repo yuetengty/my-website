@@ -145,8 +145,8 @@ sections:
     id: goals
     content:
       title: Goals
-      subtitle: ""
-      text:
+      subtitle: "Goals"
+      text: test1
       filters:
         folders:
           - goals

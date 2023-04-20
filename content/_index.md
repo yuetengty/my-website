@@ -145,6 +145,11 @@ sections:
     id: goals
     content:
       title: Goals
+      text: >-
+1. To gain a practical understanding of how research can inform decision-making and policy development beyond academia, and to develop my skills in non-academic writing, including the ability to write effective policy briefs.
+2. To enhance my understanding of diverse research methodologies and engage in interdisciplinary studies.
+3. To improve my expertise in data analysis, data visualization, and proficiency in writing code using statistical software such as R.
+
       filters:
         folders:
           - goals

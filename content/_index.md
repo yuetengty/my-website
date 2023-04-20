@@ -145,12 +145,11 @@ sections:
     id: goals
     content:
       title: Goals
-      subtitle: "Goals"
-      text: test1
       filters:
         folders:
           - goals
     design:
+      view: compact
       columns: "1"
   - block: portfolio
     id: cand3
@@ -235,7 +234,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        You can contact me here.
+        You can contact me here.<br>
       # Contact (add or remove contact options as necessary)
       email: yteng43@uwo.ca
       # phone: 888 888 88 88
